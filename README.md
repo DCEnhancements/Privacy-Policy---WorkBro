@@ -1,4 +1,4 @@
-# Privacy-Policy---WorkBro
+# Privacy-Policy - WorkBro
 
 DC Enhancements built the WorkBro app as a mobile application. This SERVICE is provided by DC Enhancements and is intended for use as is.
 
